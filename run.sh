@@ -1,3 +1,3 @@
 #!/bin/sh
 
-clojure -m main "$@"
+clojure -Srepro -m main "$@"
