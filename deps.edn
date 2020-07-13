@@ -1,0 +1,2 @@
+{:deps
+ {clj-time/clj-time {:local/root "libs/http-kit-2.4.0-alpha6.jar"}}}
