@@ -5,3 +5,4 @@ pom.xml.asc
 /target/
 .nrepl-port
 .cpcache/
+Dockerfile
